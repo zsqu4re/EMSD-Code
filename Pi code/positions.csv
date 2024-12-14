@@ -1,0 +1,7 @@
+Name,X,Y,Z
+Home,0,0,0
+Pickup,500,200,200
+Dropoff,100,100,100
+Assembly,250,250,350
+Storage,400,150,250
+Inspection,300,150,450
