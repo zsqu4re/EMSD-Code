@@ -1,0 +1,4 @@
+BookID,Layer,X_Coordinate,Thickness
+book3,2,0.0,800.0
+book4,1,200.0,200.0
+book1,1,0.0,200.0
